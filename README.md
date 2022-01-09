@@ -16,5 +16,6 @@ The project was coded using Python mostly in Jupyter Notebooks using the package
 - Datetime 
 - Sklearn 
 - Wget 
-- Folium.
+- Folium
+
 The SQL Database used was IBM DB2. 
