@@ -2,6 +2,7 @@
 This is the Capstone of the **IBM DATA SCIENCE PROFESSIONAL CERTIFICATE** which includes 9 other courses
 
 ##Capstone Structure
+
 -Introduction
 -Exploratory Data Analysis 
 -Interactive Visual Analysis and Dashboard
